@@ -1,0 +1,16 @@
+{
+  "name": "asad-saboor-portfolio",
+  "version": "1.0.0",
+  "description": "Professional videographer & video editor portfolio for Asad Saboor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
