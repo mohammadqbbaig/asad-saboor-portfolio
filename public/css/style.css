@@ -196,6 +196,18 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 }
 .btn--ghost:hover { border-color: var(--teal); color: var(--teal); }
 
+
+.reel-more {
+  margin-top: 44px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 15px;
+}
+.reel-more .btn {
+  display: inline-block;
+  margin-left: 12px;
+  margin-top: 12px;
+}
 /* =========================================================
    Hero
    ========================================================= */
